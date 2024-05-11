@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d220faba656ad1d4c8db3c0c7e587cdb, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Samurai
+    characterImage: {fileID: 1476996941, guid: 8414251b2daadde448c65c7fcc4f70ab, type: 3}
+    characterHeadshot: {fileID: 21300000, guid: ccc9df0dde6f3bb4d8f142b3fe5b0180, type: 3}
+  - characterName: King
+    characterImage: {fileID: 1104813955, guid: dc6ef1ec5c784ac4e8f4af95e86af4fa, type: 3}
+    characterHeadshot: {fileID: 21300000, guid: afed6ebe7b5d9954a9e3a883cf92214e, type: 3}
